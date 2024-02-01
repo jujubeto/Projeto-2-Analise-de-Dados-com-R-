@@ -1,5 +1,7 @@
 Projeto-2-Analise-de-Dados
+
 Estudo sobre Analise de Dados usando R
+
 -no projeto é apresentado exemplos usando formas basicas com R, GGPLOT2 e PLOTLY que são pacotes que ajudam melhor na construção e apresentação dos gráficos.
 
 Tratamento e Análise Gráfica dos Dados SRAG_2020 - (CASOS DE SÍNDROME RESPIRATÓRIA AGUDA GRAVE HOSPITALIZADOS)
